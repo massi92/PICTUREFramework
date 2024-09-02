@@ -1,1 +1,1 @@
-This GitHub Project contains the Python code of the PICTURE Frameworks. The folder "Notebooks" contains Jupyter Notebooks with examples of executions of the functionalities of the framework on both the Accountant Dataset and the Accelerometers Dataset.
+This GitHub Project contains the Python code of the PICTURE Framework. The folder "Notebooks" contains Jupyter Notebooks with examples of executions of the functionalities of the framework on both the Accountant Dataset and the Accelerometers Dataset.
